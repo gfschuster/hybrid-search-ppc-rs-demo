@@ -1,0 +1,892 @@
+[
+  {
+    "institution": "FURG",
+    "campus": "Campus Carreiros",
+    "course": "Engenharia de Computação",
+    "source_type": "Alteração curricular",
+    "title": "Deliberação 3ª Câmara COEPEA 007/2020 - vigência 2021/01",
+    "document_year": 2020,
+    "curriculum_year": null,
+    "url": "https://conselhos.furg.br/deliberacoes/coepea/3-camara/2020/deliberacao-007-2020"
+  },
+  {
+    "institution": "FURG",
+    "campus": "Campus Carreiros",
+    "course": "Sistemas de Informação",
+    "source_type": "Ato de criação e currículo",
+    "title": "Deliberação COEPE 026/2008 - criação de Sistemas de Informação",
+    "document_year": 2008,
+    "curriculum_year": null,
+    "url": "https://conselhos.furg.br/deliberacoes/coepe/plenario/2008/deliberacao-026-2008"
+  },
+  {
+    "institution": "FURG",
+    "campus": null,
+    "course": "Engenharia de Computação",
+    "source_type": "Ato de criação e currículo",
+    "title": "Deliberação COEPE 029/1993 - criação e matriz original",
+    "document_year": 1993,
+    "curriculum_year": null,
+    "url": "https://conselhos.furg.br/deliberacoes/coepe/plenario/1993/deliberacao-029-1993"
+  },
+  {
+    "institution": "FURG",
+    "campus": "Campus Carreiros",
+    "course": "Engenharia de Computação",
+    "source_type": "Alteração curricular",
+    "title": "Deliberação COEPEA 037/2008 - reformulação curricular a partir de 2009",
+    "document_year": 2008,
+    "curriculum_year": null,
+    "url": "https://conselhos.furg.br/deliberacoes/coepea/pleno/2008/deliberacao-037-2008"
+  },
+  {
+    "institution": "FURG",
+    "campus": "Campus Carreiros",
+    "course": "Sistemas de Informação",
+    "source_type": "PPC",
+    "title": "Projeto Pedagógico - Sistemas de Informação 2016",
+    "document_year": 2016,
+    "curriculum_year": null,
+    "url": "https://prograd.furg.br/images/PPC-SI-2016.pdf"
+  },
+  {
+    "institution": "IFFar",
+    "campus": "Campus Frederico Westphalen",
+    "course": "Ciência da Computação",
+    "source_type": "PPC completo",
+    "title": "IFFar Frederico Westphalen - PPC Ciência da Computação",
+    "document_year": null,
+    "curriculum_year": null,
+    "url": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/33849/31480e7aeed9ac7bc786ebb0c8690032"
+  },
+  {
+    "institution": "IFFar",
+    "campus": "Campus Panambi",
+    "course": "Sistemas para Internet",
+    "source_type": "PPC completo",
+    "title": "IFFar Panambi - PPC Sistemas para Internet",
+    "document_year": null,
+    "curriculum_year": null,
+    "url": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/37096/5c0a9163287445f234306066ddc8e33d"
+  },
+  {
+    "institution": "IFFar",
+    "campus": "Alegrete",
+    "course": "Análise e Desenvolvimento de Sistemas",
+    "source_type": "PPC",
+    "title": "PPC ADS Alegrete - revisão 2022, oferta a partir de 2023",
+    "document_year": 2022,
+    "curriculum_year": null,
+    "url": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/36564/c11f9b8725230f34e814ac1ddab972f2"
+  },
+  {
+    "institution": "IFFar",
+    "campus": "Alegrete",
+    "course": "Análise e Desenvolvimento de Sistemas",
+    "source_type": "PPC",
+    "title": "PPC ADS Alegrete - versão anterior",
+    "document_year": null,
+    "curriculum_year": null,
+    "url": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/28114/d4ef5af6e361742459315a0a9ecd23db"
+  },
+  {
+    "institution": "IFFar",
+    "campus": "São Vicente do Sul",
+    "course": "Análise e Desenvolvimento de Sistemas",
+    "source_type": "PPC",
+    "title": "PPC ADS São Vicente do Sul - revisão 2022",
+    "document_year": 2022,
+    "curriculum_year": null,
+    "url": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/36610/f03492906831b2f5e2abfc2c61e77a7d"
+  },
+  {
+    "institution": "IFFar",
+    "campus": "São Borja",
+    "course": "Sistemas de Informação",
+    "source_type": "PPC",
+    "title": "PPC Sistemas de Informação São Borja - revisão 2022",
+    "document_year": 2022,
+    "curriculum_year": null,
+    "url": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/36605/323fcc7996c406db8cfdfd8f9576339b"
+  },
+  {
+    "institution": "IFFar",
+    "campus": "São Borja",
+    "course": "Sistemas de Informação",
+    "source_type": "PPC",
+    "title": "PPC Sistemas de Informação São Borja - versão histórica",
+    "document_year": null,
+    "curriculum_year": null,
+    "url": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/9739/021774d091a8ebcc8541ae77babad2f0"
+  },
+  {
+    "institution": "IFRS",
+    "campus": "Bento Gonçalves",
+    "course": "Análise e Desenvolvimento de Sistemas",
+    "source_type": "PPC",
+    "title": "PPC ADS Bento Gonçalves - julho 2023",
+    "document_year": 2023,
+    "curriculum_year": null,
+    "url": "https://ifrs.edu.br/bento/wp-content/uploads/sites/13/2024/08/IFRS-BG-ADS-Projeto-Pedagogico-de-Curso-V2.1-1-1.pdf"
+  },
+  {
+    "institution": "IFRS",
+    "campus": "Bento Gonçalves",
+    "course": "Análise e Desenvolvimento de Sistemas",
+    "source_type": "PPC",
+    "title": "PPC ADS Bento Gonçalves - junho 2015, versão em extinção",
+    "document_year": 2015,
+    "curriculum_year": null,
+    "url": "https://ifrs.edu.br/bento/wp-content/uploads/sites/13/2023/12/PPC_ADS_PROEN_2015.pdf"
+  },
+  {
+    "institution": "IFRS",
+    "campus": "Rio Grande",
+    "course": "Análise e Desenvolvimento de Sistemas",
+    "source_type": "PPC",
+    "title": "PPC ADS Rio Grande - fevereiro 2022",
+    "document_year": 2022,
+    "curriculum_year": null,
+    "url": "https://ifrs.edu.br/riogrande/wp-content/uploads/sites/16/2023/02/PPC-TADS.pdf"
+  },
+  {
+    "institution": "IFSul",
+    "campus": "Campus Camaquã",
+    "course": "Agrocomputação",
+    "source_type": "PPC completo",
+    "title": "IFSul Camaquã - PPC Tecnologia em Agrocomputação",
+    "document_year": null,
+    "curriculum_year": null,
+    "url": "https://intranet.ifsul.edu.br/catalogo/download/projeto/839"
+  },
+  {
+    "institution": "IFSul",
+    "campus": "Passo Fundo",
+    "course": "Ciência da Computação",
+    "source_type": "PPC",
+    "title": "PPC Ciência da Computação Passo Fundo - arquivo atual do curso",
+    "document_year": null,
+    "curriculum_year": null,
+    "url": "https://inf.passofundo.ifsul.edu.br/assets/docs/bcc/projeto_pedagogico_bcc.pdf"
+  },
+  {
+    "institution": "UFFS",
+    "campus": "Campus Erechim",
+    "course": "Ciência da Computação",
+    "source_type": "PPC completo",
+    "title": "UFFS Erechim - PPC Ciência da Computação 2026",
+    "document_year": 2026,
+    "curriculum_year": null,
+    "url": "https://boletim.uffs.edu.br/atos-normativos/ppc/ccgcc-er/2026-0001/@@download/documento_historico"
+  },
+  {
+    "institution": "UFPel",
+    "campus": "Campus Porto / Anglo",
+    "course": "Ciência da Computação (antigo Bacharelado em Informática)",
+    "source_type": "Página do curso e currículo",
+    "title": "Ciência da Computação - cadastro institucional 3900",
+    "document_year": null,
+    "curriculum_year": null,
+    "url": "https://institucional.ufpel.edu.br/cursos/cod/3900"
+  },
+  {
+    "institution": "UFPel",
+    "campus": null,
+    "course": "Engenharia de Computação",
+    "source_type": "Pauta de reunião",
+    "title": "Convocação COCEPE de 28/04/2022 - atualização do texto do PPC",
+    "document_year": 2022,
+    "curriculum_year": null,
+    "url": "https://ccs2.ufpel.edu.br/wp/wp-content/uploads/2022/04/Conv.-COCEPE-28.04.2022.pdf"
+  },
+  {
+    "institution": "UFPel",
+    "campus": null,
+    "course": "Ciência da Computação (antigo Bacharelado em Informática)",
+    "source_type": "PPC",
+    "title": "Projeto Político Pedagógico - Ciência da Computação (ppc_v6_cc)",
+    "document_year": 2015,
+    "curriculum_year": null,
+    "url": "https://wp.ufpel.edu.br/computacao/files/2019/02/ppc_v6_cc.pdf"
+  },
+  {
+    "institution": "UFPel",
+    "campus": null,
+    "course": "Engenharia de Computação",
+    "source_type": "PPC",
+    "title": "Projeto Político Pedagógico - Engenharia de Computação",
+    "document_year": 2015,
+    "curriculum_year": null,
+    "url": "https://wp.ufpel.edu.br/computacao/files/2019/02/Projeto-Politico-Pedagogico-Engenharia-de-Computac%CC%A7a%CC%83o-UFPel.pdf"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Frederico Westphalen",
+    "course": "Sistemas de Informação",
+    "source_type": "Relatório de avaliação MEC",
+    "title": "Avaliação de reconhecimento de Sistemas de Informação UFSM-FW (2014)",
+    "document_year": 2014,
+    "curriculum_year": null,
+    "url": "https://www.ufsm.br/app/uploads/sites/504/2019/01/Sistema_de_Informacao_FW.pdf"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Cachoeira do Sul",
+    "course": "Ciência de Dados e Inteligência Artificial",
+    "source_type": "PPC completo",
+    "title": "UFSM Cachoeira do Sul - Ciência de Dados e Inteligência Artificial - PPC 2024",
+    "document_year": 2024,
+    "curriculum_year": null,
+    "url": "https://portal.ufsm.br/documentos/download.html?action=componente&download=false&id=4593234"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Frederico Westphalen",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Frederico Westphalen - Sistemas de Informação - 01 - Apresentação - currículo 2016",
+    "document_year": null,
+    "curriculum_year": 2016,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53279"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Frederico Westphalen",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Frederico Westphalen - Sistemas de Informação - 08.03. Integralização Curricular - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61594"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Frederico Westphalen",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Frederico Westphalen - Sistemas de Informação - 08.03. Integralização Curricular - currículo 2016",
+    "document_year": null,
+    "curriculum_year": 2016,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61277"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC (HTML)",
+    "title": "UFSM Santa Maria - Ciência da Computação - 01 - Apresentação - currículo 2005",
+    "document_year": null,
+    "curriculum_year": 2005,
+    "url": "https://www.ufsm.br/cursos/graduacao/santa-maria/ciencia-da-computacao/projeto-pedagogico"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 01 - Apresentação - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53147"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC (HTML)",
+    "title": "UFSM Santa Maria - Ciência da Computação - 02 - Justificativa - currículo 2005",
+    "document_year": null,
+    "curriculum_year": 2005,
+    "url": "https://www.ufsm.br/cursos/graduacao/santa-maria/ciencia-da-computacao/projeto-pedagogico"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 02 - Justificativa - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53153"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC (HTML)",
+    "title": "UFSM Santa Maria - Ciência da Computação - 03 - Objetivos - currículo 2005",
+    "document_year": null,
+    "curriculum_year": 2005,
+    "url": "https://www.ufsm.br/cursos/graduacao/santa-maria/ciencia-da-computacao/projeto-pedagogico"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 03 - Objetivos - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53154"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC (HTML)",
+    "title": "UFSM Santa Maria - Ciência da Computação - 04 - Perfil desejado do formando - currículo 2005",
+    "document_year": null,
+    "curriculum_year": 2005,
+    "url": "https://www.ufsm.br/cursos/graduacao/santa-maria/ciencia-da-computacao/projeto-pedagogico"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 04 - Perfil desejado do formando - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53155"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC (HTML)",
+    "title": "UFSM Santa Maria - Ciência da Computação - 05 - Áreas de atuação - currículo 2005",
+    "document_year": null,
+    "curriculum_year": 2005,
+    "url": "https://www.ufsm.br/cursos/graduacao/santa-maria/ciencia-da-computacao/projeto-pedagogico"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 05 - Áreas de atuação - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53157"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC (HTML)",
+    "title": "UFSM Santa Maria - Ciência da Computação - 06 - Papel dos docentes - currículo 2005",
+    "document_year": null,
+    "curriculum_year": 2005,
+    "url": "https://www.ufsm.br/cursos/graduacao/santa-maria/ciencia-da-computacao/projeto-pedagogico"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 06 - Papel dos docentes - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53158"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC (HTML)",
+    "title": "UFSM Santa Maria - Ciência da Computação - 07 - Estratégias pedagógicas - currículo 2005",
+    "document_year": null,
+    "curriculum_year": 2005,
+    "url": "https://www.ufsm.br/cursos/graduacao/santa-maria/ciencia-da-computacao/projeto-pedagogico"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 07 - Estratégias pedagógicas - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53160"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC (HTML)",
+    "title": "UFSM Santa Maria - Ciência da Computação - 08 - Currículo - currículo 2005",
+    "document_year": null,
+    "curriculum_year": 2005,
+    "url": "https://www.ufsm.br/cursos/graduacao/santa-maria/ciencia-da-computacao/projeto-pedagogico"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 08 - Currículo - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61407"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 08.01. Conteúdos das Diretrizes - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61404"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 08.02. Sequência Aconselhada - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61405"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 08.03. Integralização Curricular - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61406"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC (HTML)",
+    "title": "UFSM Santa Maria - Ciência da Computação - 09 - Avaliação - currículo 2005",
+    "document_year": null,
+    "curriculum_year": 2005,
+    "url": "https://www.ufsm.br/cursos/graduacao/santa-maria/ciencia-da-computacao/projeto-pedagogico"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 09 - Avaliação - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53162"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC (HTML)",
+    "title": "UFSM Santa Maria - Ciência da Computação - 10 - Recursos humanos e materiais - currículo 2005",
+    "document_year": null,
+    "curriculum_year": 2005,
+    "url": "https://www.ufsm.br/cursos/graduacao/santa-maria/ciencia-da-computacao/projeto-pedagogico"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 10 - Recursos humanos e materiais - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53165"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 11 - Normas de TCC e Estágio - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61408"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Ciência da Computação - 12 - Plano de Estágios/Práticas/REDE - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=62375"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "Ata",
+    "title": "UFSM Santa Maria - Ciência da Computação - 13 - Ajuste Simplificado - C.H. EAD 2022 - currículo 2010",
+    "document_year": null,
+    "curriculum_year": 2010,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=62995"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Ciência da Computação",
+    "source_type": "PPC completo",
+    "title": "UFSM Santa Maria - Ciência da Computação - PPC Completo - currículo 2024",
+    "document_year": 2024,
+    "curriculum_year": 2024,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=64496"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 01 - Apresentação - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53226"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 02 - Justificativa - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53227"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 03 - Objetivos - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53228"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 04 - Perfil desejado do formando - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53229"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 05 - Áreas de atuação - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53230"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 06 - Papel dos docentes - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53234"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 07 - Estratégias pedagógicas - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53238"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 08 - Currículo - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61609"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 08.01. Conteúdos das Diretrizes - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61610"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 08.02. Sequência Aconselhada - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61611"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 08.03. Integralização Curricular - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61612"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 09 - Avaliação - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53241"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 10 - Recursos humanos e materiais - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53246"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 11 - Normas de TCC e Estágio - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61613"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Engenharia de Computação - 12 - Plano de Estágios/Práticas/REDE - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=62641"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Engenharia de Computação",
+    "source_type": "PPC completo",
+    "title": "UFSM Santa Maria - Engenharia de Computação - PPC Completo - currículo 2023",
+    "document_year": 2023,
+    "curriculum_year": 2023,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=64476"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Redes de Computadores",
+    "source_type": "PPC completo",
+    "title": "UFSM Santa Maria - Redes de Computadores - PPC Completo - currículo 2025",
+    "document_year": 2025,
+    "curriculum_year": 2025,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=64712"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 01 - Apresentação - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53251"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 02 - Justificativa - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53252"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 03 - Objetivos - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53253"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 04 - Perfil desejado do formando - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53258"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 05 - Áreas de atuação - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53262"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 06 - Papel dos docentes - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53266"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 07 - Estratégias pedagógicas - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53269"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 08 - Currículo - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61741"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 08.01. Conteúdos das Diretrizes - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61742"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 08.02. Sequência Aconselhada - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61743"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 08.03. Integralização Curricular - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=61744"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 09 - Avaliação - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53273"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 10 - Recursos humanos e materiais - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=53276"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "Seção de PPC",
+    "title": "UFSM Santa Maria - Sistemas de Informação - 12 - Plano de Estágios/Práticas/REDE - currículo 2009",
+    "document_year": null,
+    "curriculum_year": 2009,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=62710"
+  },
+  {
+    "institution": "UFSM",
+    "campus": "Santa Maria",
+    "course": "Sistemas de Informação",
+    "source_type": "PPC completo",
+    "title": "UFSM Santa Maria - Sistemas de Informação - PPC Completo - currículo 2026",
+    "document_year": 2026,
+    "curriculum_year": 2026,
+    "url": "https://portal.ufsm.br/webservice/itemPPP/item/arquivo.html?item=65002"
+  },
+  {
+    "institution": "UNIPAMPA",
+    "campus": "Alegrete",
+    "course": "Ciência da Computação",
+    "source_type": "PPC completo",
+    "title": "UNIPAMPA Alegrete - Ciência da Computação - PPC 2013",
+    "document_year": 2013,
+    "curriculum_year": null,
+    "url": "https://cursos.unipampa.edu.br/cursos/cienciadacomputacao/files/2011/12/PPC_CC_2013.pdf"
+  },
+  {
+    "institution": "UNIPAMPA",
+    "campus": "Alegrete",
+    "course": "Engenharia de Software",
+    "source_type": "PPC completo",
+    "title": "UNIPAMPA Alegrete - Engenharia de Software - PPC 2012",
+    "document_year": 2012,
+    "curriculum_year": null,
+    "url": "https://repositorio.unipampa.edu.br/bitstreams/3a526067-da82-4faf-9e40-e2e1b8a93043/download"
+  },
+  {
+    "institution": "UNIPAMPA",
+    "campus": "Alegrete",
+    "course": "Engenharia de Software",
+    "source_type": "PPC completo",
+    "title": "UNIPAMPA Alegrete - Engenharia de Software - PPC 2018",
+    "document_year": 2018,
+    "curriculum_year": null,
+    "url": "https://cursos.unipampa.edu.br/cursos/engenhariadesoftware/files/2018/02/ppc-es-2018-1.pdf"
+  }
+]
