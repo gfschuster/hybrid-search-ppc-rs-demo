@@ -75,7 +75,7 @@
         <li><h3>Baixe e extraia o projeto</h3>
           <p>Use sua conta do GitHub com acesso ao projeto. Instale também o Python 3.11 ou superior.</p>
           <div class="install-links">
-            <a class="text-link" href="https://github.com/gfschuster/hybrid-search-ppc-rs/archive/7c2bf34346a68f3a99a9ee7d4dc738e29824b117.zip">Baixar ZIP do Atlas/RS ↗</a>
+            <a class="text-link" href="https://github.com/gfschuster/hybrid-search-ppc-rs/archive/57d6b20de465682ea0c5a83a12152f3cb7f14f00.zip">Baixar ZIP do Atlas/RS ↗</a>
             <a class="text-link" href="https://www.python.org/downloads/">Baixar Python ↗</a>
           </div>
         </li>
@@ -95,6 +95,7 @@ python -m curriculo_rag.web_server --port 8765</code></pre>
           </div>
           <p>Para experimentar <strong>HyDE com embeddings</strong>, execute também <code>ollama pull qwen3-embedding:0.6b</code> e, na pasta do projeto, <code>python scripts/build_dense_index.py --dataset verified --batch-size 8</code>. A primeira indexação é demorada e fica em cache local. No Atlas, selecione a base <strong>Verificada</strong>; o índice precisa ser preparado separadamente para outras bases. Compare com <strong>Híbrida com embeddings</strong> para consultar sem hipótese. O texto hipotético auxilia a busca e nunca é fonte da resposta.</p>
           <a class="text-link" href="https://ollama.com/library/qwen3-embedding">Modelo de embeddings ↗</a>
+          <p>Para a opção experimental <strong>HyDE · blocos + reordenação semântica</strong>, instale as bibliotecas opcionais com <code>python -m pip install &quot;.[rerank]&quot;</code> e baixe o modelo local com <code>python scripts/setup_reranker.py</code>. Execute na pasta do projeto e reinicie o servidor depois da instalação. O modelo de relevância tem aproximadamente 119 MB, mais o tokenizer, e usa CPU. As opções de blocos estruturais usam o índice já preparado.</p>
         </li>
       </ol>
     </section>
