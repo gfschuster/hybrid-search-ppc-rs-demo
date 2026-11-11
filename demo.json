@@ -1,37 +1,40 @@
 {
   "mode": "precomputed_public_demo",
-  "date": "2026-11-03",
+  "date": "2026-11-10",
   "live_search": false,
   "examples": [
     {
       "question": "Como o REUNI aparece no histórico de Sistemas de Informação da FURG?",
       "claims": [
         {
-          "text": "O Programa REUNI demandou da FURG esforço visando aumentar a oferta de ensino superior.",
-          "quote": "O Programa REUNI demandou da FURG esforço visando aumentar a oferta de ensino superior.",
+          "text": "O REUNI levou a FURG a ampliar a oferta de ensino superior. Na Computação, os docentes optaram por diversificar a oferta com Sistemas de Informação, em vez de apenas aumentar as vagas de Engenharia de Computação.",
+          "quote": "decidiu diversificar sua atuação, em vez de simplesmente aumentar o número de vagas no curso existente",
           "evidence_id": "SRC_C141CA070530_P0005",
-          "url": "https://prograd.furg.br/images/PPC-SI-2016.pdf",
+          "url": "https://prograd.furg.br/images/PPC-SI-2016.pdf#page=5",
           "locator": "página PDF 5"
-        }
-      ],
-      "model": "qwen2.5:1.5b",
-      "digest": "65ec06548149b04c096a120e4a6da9d4017ea809c91734ea5631e89f96ddc57b",
-      "prompt_version": "ppc-local-extractive-summary-v4"
-    },
-    {
-      "question": "Qual deliberação dispõe sobre a criação de Sistemas de Informação na FURG?",
-      "claims": [
+        },
         {
-          "text": "Nº 026 - Dispõe sobre a criação do Curso Superior de Sistemas de Informação.",
-          "quote": "Nº 026 - Dispõe sobre a criação do Curso Superior de Sistemas de Informação.",
+          "text": "O COEPE aprovou a criação do bacharelado pela Deliberação nº 026/2008, de 18 de julho de 2008.",
+          "quote": "DELIBERAÇÃO Nº 026/2008 CONSELHO DE ENSINO, PESQUISA E EXTENSÃO EM 18 DE JULHO DE 2008",
           "evidence_id": "SRC_FFBB6C9701ED_H0001",
           "url": "https://conselhos.furg.br/deliberacoes/coepe/plenario/2008/deliberacao-026-2008",
           "locator": "trecho HTML 1"
         }
       ],
-      "model": "qwen2.5:1.5b",
-      "digest": "65ec06548149b04c096a120e4a6da9d4017ea809c91734ea5631e89f96ddc57b",
-      "prompt_version": "ppc-local-extractive-summary-v4"
+      "reviewed": true
+    },
+    {
+      "question": "Qual deliberação dispõe sobre a criação de Sistemas de Informação na FURG?",
+      "claims": [
+        {
+          "text": "Deliberação nº 026/2008 do COEPE da FURG, de 18 de julho de 2008.",
+          "quote": "DELIBERAÇÃO Nº 026/2008 CONSELHO DE ENSINO, PESQUISA E EXTENSÃO EM 18 DE JULHO DE 2008",
+          "evidence_id": "SRC_FFBB6C9701ED_H0001",
+          "url": "https://conselhos.furg.br/deliberacoes/coepe/plenario/2008/deliberacao-026-2008",
+          "locator": "trecho HTML 1"
+        }
+      ],
+      "reviewed": true
     }
   ]
 }

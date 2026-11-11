@@ -5,7 +5,8 @@ function render(example){
   answer.replaceChildren(element("h3",example.question,"results-heading"));answer.hidden=false;
   const brief=element("div",undefined,"answer-summary");
   for(const claim of example.claims)brief.append(element("p",claim.text));
-  brief.append(element("p",`Resumo extrativo selecionado por ${example.model}, na execução local registrada.` ,"muted"));
+  brief.append(element("p",example.reviewed ? "Resposta conferida nas fontes institucionais."
+    : `Resumo extrativo selecionado por ${example.model}, na execução local registrada.`,"muted"));
   const details=element("details",undefined,"source-disclosure");details.append(element("summary",`Ver fontes (${example.claims.length})`));
   for(const claim of example.claims){
     const card=element("article",undefined,"evidence-card");
