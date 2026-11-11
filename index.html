@@ -75,7 +75,7 @@
         <li><h3>Baixe e extraia o projeto</h3>
           <p>Use sua conta do GitHub com acesso ao projeto. Instale também o Python 3.11 ou superior.</p>
           <div class="install-links">
-            <a class="text-link" href="https://github.com/gfschuster/hybrid-search-ppc-rs/archive/53f2896a9b4b91cbd69d7c290c4c283909662939.zip">Baixar ZIP do Atlas/RS ↗</a>
+            <a class="text-link" href="https://github.com/gfschuster/hybrid-search-ppc-rs/archive/7c2bf34346a68f3a99a9ee7d4dc738e29824b117.zip">Baixar ZIP do Atlas/RS ↗</a>
             <a class="text-link" href="https://www.python.org/downloads/">Baixar Python ↗</a>
           </div>
         </li>
@@ -93,6 +93,8 @@ python -m curriculo_rag.web_server --port 8765</code></pre>
             <a class="text-link" href="https://ollama.com/library/qwen2.5:1.5b">Qwen para HyDE e curadoria ↗</a>
             <a class="text-link" href="https://laya.aay.sh/docs.html">Instalar Laya ↗</a>
           </div>
+          <p>Para experimentar <strong>HyDE com embeddings</strong>, execute também <code>ollama pull qwen3-embedding:0.6b</code> e, na pasta do projeto, <code>python scripts/build_dense_index.py --dataset verified --batch-size 8</code>. A primeira indexação é demorada e fica em cache local. No Atlas, selecione a base <strong>Verificada</strong>; o índice precisa ser preparado separadamente para outras bases. Compare com <strong>Híbrida com embeddings</strong> para consultar sem hipótese. O texto hipotético auxilia a busca e nunca é fonte da resposta.</p>
+          <a class="text-link" href="https://ollama.com/library/qwen3-embedding">Modelo de embeddings ↗</a>
         </li>
       </ol>
     </section>
