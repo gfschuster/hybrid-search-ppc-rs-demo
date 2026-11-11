@@ -75,7 +75,7 @@
         <li><h3>Baixe e extraia o projeto</h3>
           <p>Use sua conta do GitHub com acesso ao projeto. Instale também o Python 3.11 ou superior.</p>
           <div class="install-links">
-            <a class="text-link" href="https://github.com/gfschuster/hybrid-search-ppc-rs/archive/ee9517d4ce686e8289e63862e82343d34b4f4cbe.zip">Baixar ZIP do Atlas/RS ↗</a>
+            <a class="text-link" href="https://github.com/gfschuster/hybrid-search-ppc-rs/archive/53f2896a9b4b91cbd69d7c290c4c283909662939.zip">Baixar ZIP do Atlas/RS ↗</a>
             <a class="text-link" href="https://www.python.org/downloads/">Baixar Python ↗</a>
           </div>
         </li>
@@ -86,10 +86,11 @@ python -m curriculo_rag.web_server --port 8765</code></pre>
           <p>No macOS ou Linux, use <code>PYTHONPATH=src python3 -m curriculo_rag.web_server --port 8765</code>. Abra <a class="text-link" href="http://127.0.0.1:8765/">127.0.0.1:8765</a> no mesmo computador. Selecione a base, a estratégia e o curso. Use Ctrl+C no terminal para encerrar.</p>
         </li>
         <li><h3>Adicione Qwen e Laya</h3>
-          <p>Para HyDE e resumos extrativos, instale o Ollama e baixe o modelo com <code>ollama pull qwen2.5:1.5b</code>. Mantenha o Ollama aberto enquanto consulta. Para curadoria, instale o Laya e importe no Corpus o Markdown gerado em <strong>Curadoria → Exportar para Laya</strong>.</p>
+          <p>Para respostas locais com fontes, instale o Ollama e execute <code>ollama pull qwen3:1.7b</code>. O HyDE e a curadoria usam <code>ollama pull qwen2.5:1.5b</code>. Mantenha o Ollama aberto enquanto consulta. Para curadoria, instale o Laya e importe no Corpus o Markdown gerado em <strong>Curadoria → Exportar para Laya</strong>.</p>
           <div class="install-links">
             <a class="text-link" href="https://ollama.com/download">Baixar Ollama ↗</a>
-            <a class="text-link" href="https://ollama.com/library/qwen2.5:1.5b">Modelo Qwen ↗</a>
+            <a class="text-link" href="https://ollama.com/library/qwen3:1.7b">Qwen para respostas ↗</a>
+            <a class="text-link" href="https://ollama.com/library/qwen2.5:1.5b">Qwen para HyDE e curadoria ↗</a>
             <a class="text-link" href="https://laya.aay.sh/docs.html">Instalar Laya ↗</a>
           </div>
         </li>
